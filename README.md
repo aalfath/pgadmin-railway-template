@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/pgadmin-1?utm_medium=integration&utm_source=button&utm_campaign=pgadmin)
+
 # pgAdmin on Railway
 
 A Railway template for [pgAdmin 4](https://www.pgadmin.org/), the web admin and query tool for PostgreSQL.
